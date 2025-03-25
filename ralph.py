@@ -10,14 +10,13 @@ print(number)
 
 number_1 = 56
 number_2 = 123.3434
-# print(number_1 + number_2)
-# print(number_1 - number_2)
-# print(number_1 // number_2)
-# print(number_1 * number_2)
+print(number_1 + number_2)
+print(number_1 - number_2)
+print(number_1 // number_2)
+print(number_1 * number_2)
 
 
 #boolean
-number_1 = True
 if number_1 == number_2:
     print(number_1, "is less than" ,number_2)
 else:
